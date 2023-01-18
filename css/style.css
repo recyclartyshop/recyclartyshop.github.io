@@ -170,7 +170,25 @@ footer a {
 
 footer a:hover {
     transition: 0.5s ease;
-    /* opacity: 0.5; */
-    /* button effect */
     opacity: 0.5;
+}
+
+/* Media Queries for Mobile */
+
+@media (max-width: 430px) {
+    .header-social {
+        margin-top: 1em;
+    }
+
+    .header-social img {
+        width: 3vh;
+    }
+
+    #wip {
+        font-size: .8em;
+    }
+
+    footer {
+        font-size: .5em;
+    }
 }
