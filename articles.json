@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "nom": "ceramiques",
+      "articles": [
+        {
+          "nom": "Article 1",
+          "dossier": "CE_1",
+          "description": "Description de l'article 1"
+        },
+        {
+          "nom": "Article 2",
+          "dossier": "CE_2",
+          "description": "Description de l'article 2"
+        },
+        {
+          "nom": "Article 3",
+          "dossier": "CE_3",
+          "description": "Description de l'article 3"
+        },
+        {
+          "nom": "Article 4",
+          "dossier": "CE_4",
+          "description": "Description de l'article 4"
+        },
+        {
+          "nom": "Article 5",
+          "dossier": "CE_5",
+          "description": "Description de l'article 5"
+        },
+        {
+          "nom": "Article 6",
+          "dossier": "CE_6",
+          "description": "Description de l'article 6"
+        }
+      ]
+    }
+  ]
+}
+
