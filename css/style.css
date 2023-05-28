@@ -87,8 +87,8 @@ body {
     font-size: 15px;
     font-weight: 400;
     line-height: 1.5;
-    color: #ccc;
-    background-color: #111;
+    color: #111;
+    background-color: #fff;
 }
 
 h1 {
@@ -116,7 +116,7 @@ h1 {
     background-color: #fff;
     border-radius: 10%;
     padding: .5em;
-    border: 2px solid #000;
+    /* border: 2px solid #000; */
 }
 
 .header-social {
@@ -131,14 +131,14 @@ h1 {
 .header-social p {
     text-align: center;
     margin-top: 1em;
-    color: #ccc;
+    color: #111;
     transition: 0.5s ease;
     font-size: .8em;
 }
 
 .header-social a {
     text-decoration: none;
-    color: #ccc;
+    color: #111;
     transition: 0.5s ease;
 }
 
@@ -159,6 +159,10 @@ h1 {
 }
 
 #instagram-logo {
+    /* filter: invert(100%); */
+}
+
+#etsy-logo {
     filter: invert(100%);
 }
 
@@ -190,7 +194,7 @@ margin-top: 8em;
   flex-direction: column;
   align-items: center;
   margin-top: 2em;
-  color: #ccc;
+  color: #111;
   text-decoration: none;
   transition: 0.5s ease;
   font-size: 1.1em;
@@ -204,7 +208,7 @@ margin-top: 8em;
   flex-direction: column;
   align-items: center;
   margin-top: 2em;
-  color: #ccc;
+  color: #111;
   text-decoration: none;
   transition: 0.5s ease;
   font-size: 1em;
@@ -253,13 +257,13 @@ margin-top: 8em;
 }
 
 .return-home {
-    color: #ff0;
+    color: #f507f1;
     text-decoration: none;
     transition: 0.5s ease;
 }
 
 .return-home:hover {
-    color: #f507f1;
+    color: #696CDC;
 }
 
 footer {
@@ -277,7 +281,7 @@ footer {
 }
 
 footer a {
-    color: #ccc;
+    color: #111;
     transition: 0.5s ease;
 }
 
